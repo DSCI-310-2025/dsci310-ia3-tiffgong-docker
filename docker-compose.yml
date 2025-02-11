@@ -1,6 +1,6 @@
 services:
   analysis-env:
-    image: tiffgong/mycontainer
+    image: tiffgong/dockerfile-practice
     ports:
       - "8787:8787"
     volumes:
